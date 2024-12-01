@@ -2,6 +2,10 @@
 
 Simple script for global speech to text on Linux with Wayland support.
 
+## Usage
+
+To start recording, say start typing. To stop recording, say stop typing. Letters will be entered via a virtual keyboard as if they were typed.
+
 ## Setup
 
 1. Create and activate a virtual environment with Python:
